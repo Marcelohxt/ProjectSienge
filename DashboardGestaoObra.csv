@@ -1,0 +1,488 @@
+Tarefa;Quant. planejada;Unidade;Duração (dias);Início;Término;Previsto;Valor previsto;Medido;Valor medido;IDP;Status
+1 - OBRA DE INFRAESTRUTURA;;;638;03/04/2023;30/09/2025;90,75%;R$ 16.830.985,15;92,81%;R$ 17.212.824,78;1,02;Em dia
+2 - ADMINISTRAÇÃO DA OBRA;;;107;01/06/2023;31/10/2023;100,00%;R$ 687.889,44;100,00%;R$ 687.889,44;1,00;Concluído
+3 - EQUIPE DE CAMPO;;;107;01/06/2023;31/10/2023;100,00%;R$ 687.889,44;100,00%;R$ 687.889,44;1,00;Concluído
+4 - Gerente de obra (GO);6,0000;vb;107;01/06/2023;31/10/2023;100,00%;R$ 196.939,44;100,00%;R$ 196.939,44;1,00;Concluído
+5 - Mestre de obras;6,0000;vb;107;01/06/2023;31/10/2023;100,00%;R$ 185.986,38;100,00%;R$ 185.986,38;1,00;Concluído
+6 - Administrativo;6,0000;vb;107;01/06/2023;31/10/2023;100,00%;R$ 112.007,52;100,00%;R$ 112.007,52;1,00;Concluído
+7 - Assistente de Engenharia;6,0000;vb;107;01/06/2023;31/10/2023;100,00%;R$ 91.545,66;100,00%;R$ 91.545,66;1,00;Concluído
+8 - Técnico de Segurança do Trabalho;6,0000;vb;107;01/06/2023;31/10/2023;100,00%;R$ 101.410,44;100,00%;R$ 101.410,44;1,00;Concluído
+9 - PROJETOS, CONSULTORIAS, ASSESSORIAS;;;129;02/05/2023;31/10/2023;100,00%;R$ 153.380,00;100,00%;R$ 153.380,00;1,00;Concluído
+10 - CONSULTORIAS;;;129;02/05/2023;31/10/2023;100,00%;R$ 59.000,00;100,00%;R$ 59.000,00;1,00;Concluído
+11 - Consultoria e assessoria  para recolhimento de ISS e INSS;6,0000;vb;107;01/06/2023;31/10/2023;100,00%;R$ 9.000,00;100,00%;R$ 9.000,00;1,00;Concluído
+12 - Sondagem;1,0000;vb;88;02/05/2023;31/08/2023;100,00%;R$ 50.000,00;100,00%;R$ 50.000,00;1,00;Concluído
+13 - DESPESAS ADMINISTRATIVAS DE OBRA;;;44;02/05/2023;30/06/2023;100,00%;R$ 94.380,00;100,00%;R$ 94.380,00;1,00;Concluído
+14 - Rede e instalação TI e despesas mensais para o canteiro (INFRAESTRUTURA);1,0000;vb;44;02/05/2023;30/06/2023;100,00%;R$ 94.380,00;100,00%;R$ 94.380,00;1,00;Concluído
+15 - CANTEIRO DE OBRAS;;;128;02/05/2023;30/10/2023;100,00%;R$ 389.898,65;100,00%;R$ 389.898,65;1,00;Concluído
+16 - LIGAÇÕES PROVISÓRIAS;;;44;02/05/2023;30/06/2023;100,00%;R$ 143.113,73;100,00%;R$ 143.113,73;1,00;Concluído
+17 - Reservatório elevado com torre de suporte;1,0000;vb;44;02/05/2023;30/06/2023;100,00%;R$ 21.859,40;100,00%;R$ 21.859,40;1,00;Concluído
+18 - Ligações provisórias do canteiro ELÉTRICA;0,2000;vb;22;02/05/2023;31/05/2023;100,00%;R$ 30.544,33;100,00%;R$ 30.544,33;1,00;Concluído
+19 - Ligações provisórias do canteiro HIDRÁULICA;0,2000;vb;22;02/05/2023;31/05/2023;100,00%;R$ 44.435,00;100,00%;R$ 44.435,00;1,00;Concluído
+20 - Fossa séptica para esgoto do canteiro, incluso sumidouro;1,0000;vb;22;02/05/2023;31/05/2023;100,00%;R$ 46.275,00;100,00%;R$ 46.275,00;1,00;Concluído
+21 - TAPUME E CONTROLE DE ACESSO;;;22;02/05/2023;31/05/2023;100,00%;R$ 48.243,92;100,00%;R$ 48.243,92;1,00;Concluído
+22 - Portões para veículos e 1 para pedestres;1,0000;cj;22;02/05/2023;31/05/2023;100,00%;R$ 12.323,92;100,00%;R$ 12.323,92;1,00;Concluído
+23 - Catraca de Controle de Acesso (1 CATRACA);1,0000;un;22;02/05/2023;31/05/2023;100,00%;R$ 31.420,00;100,00%;R$ 31.420,00;1,00;Concluído
+24 - Placa de obra Padrão BNC;1,0000;un;22;02/05/2023;31/05/2023;100,00%;R$ 4.500,00;100,00%;R$ 4.500,00;1,00;Concluído
+25 - CANTEIRO;;;128;02/05/2023;30/10/2023;100,00%;R$ 198.541,00;100,00%;R$ 198.541,00;1,00;Concluído
+26 - Locação de Container para início de obra(engenharia, almox.,vesti e sanit);6,0000;mes;88;02/05/2023;31/08/2023;100,00%;R$ 139.230,00;100,00%;R$ 139.230,00;1,00;Concluído
+27 - Locação e banheiro químico;6,0000;mes;128;02/05/2023;30/10/2023;100,00%;R$ 34.920,00;100,00%;R$ 34.920,00;1,00;Concluído
+28 - Móveis e equipamentos de canteiro;1,0000;vb;22;02/05/2023;31/05/2023;100,00%;R$ 19.391,00;100,00%;R$ 19.391,00;1,00;Concluído
+29 - Lava botas;1,0000;un;22;02/05/2023;31/05/2023;100,00%;R$ 5.000,00;100,00%;R$ 5.000,00;1,00;Concluído
+30 - OPERAÇÃO E MANUTENÇÃO DE CANTEIRO;;;230;03/04/2023;28/02/2024;100,00%;R$ 648.493,88;100,00%;R$ 648.493,88;1,00;Concluído
+31 - CONSUMOS;;;107;01/06/2023;31/10/2023;100,00%;R$ 137.964,00;100,00%;R$ 137.964,00;1,00;Concluído
+32 - Consumo de Água / Energia / Telefone;6,0000;vb;107;01/06/2023;31/10/2023;100,00%;R$ 78.000,00;100,00%;R$ 78.000,00;1,00;Concluído
+33 - Plotagens;6,0000;vb;107;01/06/2023;31/10/2023;100,00%;R$ 6.000,00;100,00%;R$ 6.000,00;1,00;Concluído
+34 - Caixa de Obra;6,0000;vb;107;01/06/2023;31/10/2023;100,00%;R$ 12.000,00;100,00%;R$ 12.000,00;1,00;Concluído
+35 - Material de Escritório, limpeza;6,0000;vb;107;01/06/2023;31/10/2023;100,00%;R$ 12.000,00;100,00%;R$ 12.000,00;1,00;Concluído
+36 - Dedetização e desratização;1,0000;un;107;01/06/2023;31/10/2023;100,00%;R$ 7.860,00;100,00%;R$ 7.860,00;1,00;Concluído
+37 - Caminhão pipa - lavagem rua/teste estanqueidade;72,0000;un;107;01/06/2023;31/10/2023;100,00%;R$ 22.104,00;100,00%;R$ 22.104,00;1,00;Concluído
+38 - IMPOSTOS, TAXAS E SEGUROS;;;148;03/04/2023;31/10/2023;100,00%;R$ 318.415,20;100,00%;R$ 318.415,20;1,00;Concluído
+39 - Risco de engenharia e responsabilidade civil cruzada;1,0000;vb;40;03/04/2023;30/05/2023;100,00%;R$ 146.739,20;100,00%;R$ 146.739,20;1,00;Concluído
+40 - Seguros de performance-bond, com cobertura para 50%do valor do contrato;1,0000;vb;40;03/04/2023;30/05/2023;100,00%;R$ 158.976,00;100,00%;R$ 158.976,00;1,00;Concluído
+41 - Locação bomba drenagem;6,0000;mes;107;01/06/2023;31/10/2023;100,00%;R$ 7.200,00;100,00%;R$ 7.200,00;1,00;Concluído
+42 - Ferramentas manuais - calibradas;0,5000;vb;107;01/06/2023;31/10/2023;100,00%;R$ 5.500,00;100,00%;R$ 5.500,00;1,00;Concluído
+43 - PROTEÇÕES COLETIVAS;;;189;01/06/2023;28/02/2024;100,00%;R$ 40.469,76;100,00%;R$ 40.469,76;1,00;Concluído
+44 - Sinalização de segurança, inclusive placas de comunicação - EPC EM GERAL;0,5000;vb;107;01/06/2023;31/10/2023;100,00%;R$ 6.000,00;100,00%;R$ 6.000,00;1,00;Concluído
+45 - Extintores inclusive sinalização (1 cj a cada raio de 20m );0,2000;cj;107;01/06/2023;31/10/2023;100,00%;R$ 2.525,76;100,00%;R$ 2.525,76;1,00;Concluído
+46 - Projeto de incêndio e mapa de risco;1,0000;vb;107;01/06/2023;31/10/2023;100,00%;R$ 2.178,00;100,00%;R$ 2.178,00;1,00;Concluído
+47 - Ambulatório ( prancha com colar cervical, maca e primeiros socorros - à partir de 50 operários );1,0000;cj;107;01/06/2023;31/10/2023;100,00%;R$ 17.000,00;100,00%;R$ 17.000,00;1,00;Concluído
+48 - Laudos;1,0000;vb;189;01/06/2023;28/02/2024;100,00%;R$ 12.766,00;100,00%;R$ 12.766,00;1,00;Concluído
+49 - PROTEÇÕES INDIVIDUAIS;;;19;03/04/2023;28/04/2023;100,00%;R$ 7.018,78;100,00%;R$ 7.018,78;1,00;Concluído
+50 - EPI's / Uniformes (BN / Mextre) - durabilidade 6 meses;0,2000;vb;19;03/04/2023;28/04/2023;100,00%;R$ 7.018,78;100,00%;R$ 7.018,78;1,00;Concluído
+51 - SEGURANÇA DO TRABALHO;;;107;01/06/2023;31/10/2023;100,00%;R$ 5.830,00;100,00%;R$ 5.830,00;1,00;Concluído
+52 - Técnico de Segurança;1,0000;vb;107;01/06/2023;31/10/2023;100,00%;R$ 5.830,00;100,00%;R$ 5.830,00;1,00;Concluído
+53 - VIGILÂNCIA / COPA;;;107;01/06/2023;31/10/2023;100,00%;R$ 138.796,14;100,00%;R$ 138.796,14;1,00;Concluído
+54 - Vigilância (considerado 1 portaria) e serviço de copa com limpeza de área de vivência - POSTO 12HRS;6,0000;mes;107;01/06/2023;31/10/2023;100,00%;R$ 138.796,14;100,00%;R$ 138.796,14;1,00;Concluído
+55 - SERVIÇOS PRELIMINARES;;;129;02/05/2023;31/10/2023;100,00%;R$ 111.696,20;100,00%;R$ 111.696,20;1,00;Concluído
+56 - LAUDO VISTORIA E SERVIÇOS TOPOGRAFÍCOS;;;107;01/06/2023;31/10/2023;100,00%;R$ 48.000,00;100,00%;R$ 48.000,00;1,00;Concluído
+57 - Serviços topográficos;40,0000;dia;107;01/06/2023;31/10/2023;100,00%;R$ 48.000,00;100,00%;R$ 48.000,00;1,00;Concluído
+58 - LAVA RODAS;;;129;02/05/2023;31/10/2023;100,00%;R$ 63.696,20;100,00%;R$ 63.696,20;1,00;Concluído
+59 - Lava rodas 5x8m com caixa de decantação;1,0000;un;22;02/05/2023;31/05/2023;100,00%;R$ 19.296,20;100,00%;R$ 19.296,20;1,00;Concluído
+60 - Operação de lava rodas (1 operador e 1 lavadora de alta pressão);6,0000;mes;107;01/06/2023;31/10/2023;100,00%;R$ 44.400,00;100,00%;R$ 44.400,00;1,00;Concluído
+61 - MOVIMENTO DE TERRA;;;281;24/05/2023;28/06/2024;100,00%;R$ 2.611.850,06;100,00%;R$ 2.611.850,06;1,00;Concluído
+62 - TERRAPLENAGEM MECANIZADA;;;281;24/05/2023;28/06/2024;100,00%;R$ 2.611.850,06;100,00%;R$ 2.611.850,06;1,00;Concluído
+63 - Corte com compensação interna;90.350,6900;m3;233;03/07/2023;31/05/2024;100,00%;R$ 930.612,11;100,00%;R$ 930.612,11;1,00;Concluído
+64 - Aterro com material interno;90.350,6900;m3;273;05/06/2023;28/06/2024;100,00%;R$ 701.121,35;100,00%;R$ 701.121,35;1,00;Concluído
+65 - Limpeza da camada vegetal do terreno esp. = 20cm, com deposito interno DMT até 1km.;50.872,9000;m2;22;01/06/2023;30/06/2023;100,00%;R$ 599.791,49;100,00%;R$ 599.791,49;1,00;Concluído
+66 - Mobilização da Equipe de terraplenagem;1,0000;vb;6;24/05/2023;31/05/2023;100,00%;R$ 380.325,11;100,00%;R$ 380.325,11;1,00;Concluído
+67 - FUNDAÇÕES E CONTENÇÕES;;;189;01/09/2023;31/05/2024;100,00%;R$ 5.046.263,88;100,00%;R$ 5.046.263,88;1,00;Concluído
+68 - CONTENÇÃO ;;;189;01/09/2023;31/05/2024;100,00%;R$ 5.046.263,88;100,00%;R$ 5.046.263,88;1,00;Concluído
+69 - Contenções Gerais;1,0000;vb;189;01/09/2023;31/05/2024;100,00%;R$ 5.046.263,88;100,00%;R$ 5.046.263,88;1,00;Concluído
+70 - ESTRUTURA;;;230;02/08/2023;27/06/2024;100,00%;R$ 180.000,00;100,00%;R$ 180.000,00;1,00;Concluído
+71 - CONTROLE TECNOLÓGICO;;;230;02/08/2023;27/06/2024;100,00%;R$ 180.000,00;100,00%;R$ 180.000,00;1,00;Concluído
+72 - Controle tecnológico do solo;6,0000;mes;230;02/08/2023;27/06/2024;100,00%;R$ 180.000,00;100,00%;R$ 180.000,00;1,00;Concluído
+73 - INSTALAÇÕES ELÉTRICAS;;;509;01/09/2023;29/08/2025;79,83%;R$ 2.914.544,97;85,99%;R$ 3.139.476,97;1,08;Em dia
+74 - INSTALAÇÕES ELÉTRICAS EM GERAL;;;509;01/09/2023;29/08/2025;77,76%;R$ 2.425.203,89;83,78%;R$ 2.612.994,97;1,08;Em dia
+75 - Rede elétrica de média e baixa tensão subterrâneas;2.426,0000;m;401;01/09/2023;28/03/2025;92,02%;R$ 1.766.112,92;99,00%;R$ 1.900.160,62;1,08;Em dia
+76 - Rede telefonia e TVC;1.210,0000;m;378;05/10/2023;28/03/2025;91,54%;R$ 659.090,96;99,00%;R$ 712.834,35;1,08;Em dia
+77 - Iluminação Externa;1,0000;un;44;01/07/2025;29/08/2025;0,00%;;0,00%;;0,00;Não iniciado
+78 - OBRAS CIVIS PARA INSTALAÇÃO ELÉTRICA;;;401;01/09/2023;28/03/2025;92,02%;R$ 489.341,09;99,00%;R$ 526.482,00;1,08;Em dia
+79 - Apoio civil para instalações elétricas;1,0000;mes;401;01/09/2023;28/03/2025;92,02%;R$ 489.341,09;99,00%;R$ 526.482,00;1,08;Em dia
+80 - INSTALAÇÕES HIDRÁULICAS;;;554;01/08/2023;30/09/2025;80,37%;R$ 3.614.188,39;82,36%;R$ 3.703.458,58;1,02;Em dia
+81 - INSTALAÇÕES HIDRÁULICAS EM GERAL;;;531;01/09/2023;30/09/2025;61,59%;R$ 1.415.227,14;65,47%;R$ 1.504.497,33;1,06;Em dia
+82 - Rede de abastecimento de água (Rede principal);1.499,7200;m;401;01/09/2023;28/03/2025;92,02%;R$ 615.168,53;90,00%;R$ 601.691,56;0,98;Atrasado
+83 - Reservatório de retenção de águas pluviais - V=15,00m³;1,0000;un;168;03/10/2023;31/05/2024;100,00%;R$ 120.000,00;100,00%;R$ 120.000,00;1,00;Concluído
+84 - Estação de Tratamento de Esgoto;1,0000;un;66;01/07/2025;30/09/2025;0,00%;;0,00%;;0,00;Não iniciado
+85 - Rede coletora de esgoto DN150 ;2.256,0000;m;401;01/09/2023;28/03/2025;92,02%;R$ 680.058,60;99,00%;R$ 731.674,94;1,08;Em dia
+86 - Execução tubulaçao emissário externo;391,6300;m;66;01/07/2025;30/09/2025;0,00%;;95,00%;R$ 51.130,83;0,00;Não iniciado
+87 - DRENAGEM DEFINITIVA E REDE ENTERRADA;;;277;01/08/2023;30/08/2024;100,00%;R$ 2.198.961,25;100,00%;R$ 2.198.961,25;1,00;Concluído
+88 - Rede de drenagem de águas pluviais ;1.641,0000;m;277;01/08/2023;30/08/2024;100,00%;R$ 2.127.162,66;100,00%;R$ 2.127.162,66;1,00;Concluído
+89 - Canaleta de Drenagem;624,0100;m;277;01/08/2023;30/08/2024;100,00%;R$ 71.798,59;100,00%;R$ 71.798,59;1,00;Concluído
+90 - IMPLANTAÇÃO;;;444;01/09/2023;30/05/2025;83,11%;R$ 472.779,68;95,00%;R$ 540.417,12;1,14;Em dia
+91 - PAISAGISMO E IRRIGAÇÃO;;;444;01/09/2023;30/05/2025;83,11%;R$ 472.779,68;95,00%;R$ 540.417,12;1,14;Em dia
+92 - GRAMA-BATATAIS PARA TALUDES;35.553,7600;m2;444;01/09/2023;30/05/2025;83,11%;R$ 472.779,68;95,00%;R$ 540.417,12;1,14;Em dia
+93 - PMG;;;816;22/12/2022;27/02/2026;54,85%;R$ 50.702.588,72;34,59%;R$ 31.970.407,78;0,63;Atrasado
+94 - ADMINISTRAÇÃO DA OBRA;;;551;01/12/2023;23/01/2026;55,89%;R$ 4.041.529,38;46,13%;R$ 3.335.334,14;0,83;Atrasado
+95 - PMG - EQUIPE DE CAMPO;;;551;01/12/2023;23/01/2026;55,89%;R$ 4.041.529,38;46,13%;R$ 3.335.334,14;0,83;Atrasado
+96 - Gerente de contrato (GGO);26,0000;vb;551;01/12/2023;23/01/2026;55,89%;R$ 567.577,85;57,69%;R$ 585.859,80;1,03;Em dia
+97 - Engenheiro Produção;66,0000;vb;551;01/12/2023;23/01/2026;55,89%;R$ 598.374,88;39,39%;R$ 421.748,08;0,70;Atrasado
+98 - Mestre de obras;24,0000;vb;551;01/12/2023;23/01/2026;55,89%;R$ 415.806,03;70,83%;R$ 526.961,41;1,27;Em dia
+99 - Encarregado;88,0000;vb;551;01/12/2023;23/01/2026;55,89%;R$ 753.833,29;27,27%;R$ 367.836,00;0,49;Atrasado
+100 - Estagiário de produção;83,0000;vb;551;01/12/2023;23/01/2026;55,89%;R$ 272.099,87;30,12%;R$ 146.636,00;0,54;Atrasado
+101 - Administrativo;24,0000;vb;551;01/12/2023;23/01/2026;55,89%;R$ 250.412,97;62,50%;R$ 280.018,80;1,12;Em dia
+102 - Almoxarife;24,0000;vb;551;01/12/2023;23/01/2026;55,89%;R$ 155.646,25;66,67%;R$ 185.651,20;1,19;Em dia
+103 - Auxiliar de Almoxarife;20,0000;vb;551;01/12/2023;23/01/2026;55,89%;R$ 117.264,88;55,00%;R$ 115.393,41;0,98;Atrasado
+104 - Auxiliar administrativo;22,0000;vb;551;01/12/2023;23/01/2026;55,89%;R$ 120.958,36;81,82%;R$ 177.066,36;1,46;Em dia
+105 - Assistente de Engenharia;66,0000;vb;551;01/12/2023;23/01/2026;55,89%;R$ 562.833,70;27,27%;R$ 274.636,98;0,49;Atrasado
+106 - Técnico de Segurança do Trabalho;24,0000;vb;551;01/12/2023;23/01/2026;55,89%;R$ 226.721,29;62,50%;R$ 253.526,10;1,12;Em dia
+107 - PROJETOS, CONSULTORIAS, ASSESSORIAS;;;640;01/08/2023;30/01/2026;56,94%;R$ 243.538,70;67,46%;R$ 288.530,42;1,18;Em dia
+108 - CONSULTORIAS;;;592;02/10/2023;23/01/2026;48,21%;R$ 68.070,53;76,11%;R$ 107.470,00;1,58;Em dia
+109 - Assessoria de bombeiro (considerando que o projeto será entregue aprovado, a assessoria será durante a obra para obtenção do AVCB);1,0000;vb;108;01/08/2025;31/12/2025;0,00%;;42,20%;R$ 14.770,00;0,00;Não iniciado
+110 - Consultoria e assessoria  para recolhimento de ISS e INSS;24,0000;mes;551;01/12/2023;23/01/2026;55,89%;R$ 20.121,12;62,50%;R$ 22.500,00;1,12;Em dia
+111 - Consultoria de  Fundação;9,0000;mes;511;02/10/2023;30/09/2025;68,30%;R$ 47.949,41;100,00%;R$ 70.200,00;1,46;Concluído
+112 - DESPESAS ADMINISTRATIVAS DE OBRA;;;640;01/08/2023;30/01/2026;61,25%;R$ 175.468,17;63,20%;R$ 181.060,42;1,03;Em dia
+113 - Rede e instalação TI e despesas mensais para o canteiro (PMG);1,0000;vb;640;01/08/2023;30/01/2026;61,25%;R$ 175.468,17;63,20%;R$ 181.060,42;1,03;Em dia
+114 - CANTEIRO DE OBRAS;;;553;03/07/2023;29/08/2025;95,13%;R$ 1.008.985,22;99,68%;R$ 1.057.213,34;1,05;Em dia
+115 - LIGAÇÕES PROVISÓRIAS;;;23;01/08/2023;31/08/2023;100,00%;R$ 299.917,34;100,00%;R$ 299.917,34;1,00;Concluído
+116 - Ligações provisórias do canteiro ELÉTRICA;0,8000;vb;23;01/08/2023;31/08/2023;100,00%;R$ 122.177,34;100,00%;R$ 122.177,34;1,00;Concluído
+117 - Ligações provisórias do canteiro HIDRÁULICA;0,8000;un;23;01/08/2023;31/08/2023;100,00%;R$ 177.740,00;100,00%;R$ 177.740,00;1,00;Concluído
+118 - TAPUME E CONTROLE DE ACESSO;;;276;03/06/2024;30/06/2025;65,21%;R$ 8.803,35;100,00%;R$ 13.500,00;1,53;Concluído
+119 - Tapume em telha metálica h=2,40m - Reforma;300,0000;m;276;03/06/2024;30/06/2025;65,21%;R$ 8.803,35;100,00%;R$ 13.500,00;1,53;Concluído
+120 - CANTEIRO;;;553;03/07/2023;29/08/2025;93,72%;R$ 700.264,53;99,54%;R$ 743.796,00;1,06;Em dia
+121 - Canteiro de Obras;1,0000;vb;44;03/07/2023;31/08/2023;100,00%;R$ 661.716,00;100,00%;R$ 661.716,00;1,00;Concluído
+122 - Manutenção de canteiro;1,0000;vb;255;02/09/2024;29/08/2025;45,09%;R$ 38.548,53;96,00%;R$ 82.080,00;2,13;Em dia
+123 - OPERAÇÃO E MANUTENÇÃO DE CANTEIRO;;;571;01/11/2023;23/01/2026;56,07%;R$ 1.577.121,36;60,41%;R$ 1.699.340,30;1,08;Em dia
+124 - CONSUMOS;;;571;01/11/2023;23/01/2026;57,43%;R$ 437.330,02;66,69%;R$ 507.847,36;1,16;Em dia
+125 - Consumo de Água / Energia / Telefone;24,0000;vb;571;01/11/2023;23/01/2026;57,43%;R$ 179.181,60;62,50%;R$ 195.000,00;1,09;Em dia
+126 - Remoção de entulho;1,0000;vb;571;01/11/2023;23/01/2026;57,43%;R$ 120.399,12;59,60%;R$ 124.948,42;1,04;Em dia
+127 - Plotagens;24,0000;vb;571;01/11/2023;23/01/2026;57,43%;R$ 13.783,20;62,50%;R$ 15.000,00;1,09;Em dia
+128 - Caixa de Obra;24,0000;vb;571;01/11/2023;23/01/2026;57,43%;R$ 27.566,40;62,50%;R$ 30.000,00;1,09;Em dia
+129 - Material de Escritório, limpeza;24,0000;vb;571;01/11/2023;23/01/2026;57,43%;R$ 27.566,40;62,50%;R$ 30.000,00;1,09;Em dia
+130 - Dedetização e desratização;4,0000;un;571;01/11/2023;23/01/2026;57,43%;R$ 18.055,99;86,25%;R$ 27.117,00;1,50;Em dia
+131 - Caminhão pipa - lavagem rua/teste estanqueidade;288,0000;un;571;01/11/2023;23/01/2026;57,43%;R$ 50.777,31;97,02%;R$ 85.781,94;1,69;Em dia
+132 - Máquinas, equipamentos e ferramentas;;;571;01/11/2023;23/01/2026;54,73%;R$ 697.314,07;52,24%;R$ 665.537,55;0,95;Atrasado
+133 - Andaimes fachadeiro e torres;3.248,7500;m2xmes;386;02/05/2024;30/10/2025;52,33%;R$ 288.139,02;27,77%;R$ 152.906,55;0,53;Atrasado
+134 - Locação maq. Jato d'água;6,0000;mes;571;01/11/2023;23/01/2026;57,43%;R$ 6.202,44;60,00%;R$ 6.480,00;1,04;Em dia
+135 - Locação bomba drenagem;6,0000;mes;571;01/11/2023;23/01/2026;57,43%;R$ 4.134,96;87,50%;R$ 6.300,00;1,52;Em dia
+136 - Locação de plataforma Pantográfica;15,0000;mes;386;02/05/2024;30/10/2025;52,33%;R$ 235.494,00;60,00%;R$ 270.000,00;1,15;Em dia
+137 - Ferramentas manuais - calibradas;0,5000;vb;571;01/11/2023;23/01/2026;57,43%;R$ 3.158,65;88,20%;R$ 4.851,00;1,54;Em dia
+138 - Locação de bob cat - transbordo material;10,0000;mes;512;01/11/2023;30/10/2025;64,07%;R$ 160.185,00;90,00%;R$ 225.000,00;1,40;Em dia
+139 - Proteções coletivas;;;571;01/11/2023;23/01/2026;55,64%;R$ 120.260,70;81,87%;R$ 176.942,51;1,47;Em dia
+140 - Sinalização de segurança, inclusive placas de comunicação - EPC EM GERAL;0,5000;vb;571;01/11/2023;23/01/2026;57,43%;R$ 3.445,80;56,20%;R$ 3.372,00;0,98;Atrasado
+141 - Extintores inclusive sinalização (1 cj a cada raio de 20m );0,8000;cj;571;01/11/2023;23/01/2026;57,43%;R$ 5.802,18;57,87%;R$ 5.847,13;1,01;Em dia
+142 - Linha de vida;450,0000;m;386;02/05/2024;30/10/2025;52,33%;R$ 25.864,31;92,44%;R$ 45.689,28;1,77;Em dia
+143 - Cabo de aço para proteção;1.350,0000;m;386;02/05/2024;30/10/2025;52,33%;R$ 25.186,08;76,74%;R$ 36.933,40;1,47;Em dia
+144 - Proteção periférica e poço de elevador ( Incluso proteção das escadas);450,0000;m;571;01/11/2023;23/01/2026;57,43%;R$ 38.765,25;84,17%;R$ 56.812,50;1,47;Em dia
+145 - Formação da Brigada de Incêndio ( Anual - efetivo obra );3,0000;un;571;01/11/2023;23/01/2026;57,43%;R$ 8.893,61;66,67%;R$ 10.324,00;1,16;Em dia
+146 - Equipamentos de segurança coletivo;1,0000;vb;571;01/11/2023;23/01/2026;57,43%;R$ 1.636,76;46,20%;R$ 1.316,70;0,80;Atrasado
+147 - Proteção para resíduos - APP;665,9000;m;512;01/11/2023;30/10/2025;64,07%;R$ 10.666,72;100,00%;R$ 16.647,50;1,56;Concluído
+148 - Proteções individuais;;;571;01/11/2023;23/01/2026;57,43%;R$ 16.123,53;56,63%;R$ 15.897,53;0,99;Atrasado
+149 - EPI's / Uniformes (BN / Mextre) - durabilidade 6 meses;0,8000;vb;571;01/11/2023;23/01/2026;57,43%;R$ 16.123,53;56,62%;R$ 15.897,53;0,99;Atrasado
+150 - Vigilância / Copa;;;571;01/11/2023;23/01/2026;57,43%;R$ 306.093,03;62,50%;R$ 333.115,35;1,09;Em dia
+151 - Vigilância (considerado 1 portaria) e serviço de copa com limpeza de área de vivência - POSTO 12HRS;24,0000;mes;571;01/11/2023;23/01/2026;57,43%;R$ 306.093,03;62,50%;R$ 333.115,35;1,09;Em dia
+152 - SERVIÇOS PRELIMINARES;;;424;01/11/2023;30/06/2025;80,48%;R$ 184.632,37;92,95%;R$ 213.234,80;1,15;Em dia
+153 - LAUDO VISTORIA E SERVIÇOS TOPOGRÁFICOS;;;403;01/11/2023;30/05/2025;81,39%;R$ 144.555,74;97,97%;R$ 174.000,00;1,20;Em dia
+154 - Serviços topográficos;148,0000;dia;403;01/11/2023;30/05/2025;81,39%;R$ 144.555,74;97,97%;R$ 174.000,00;1,20;Em dia
+155 - LAVA RODAS;;;424;01/11/2023;30/06/2025;77,37%;R$ 40.076,62;75,74%;R$ 39.234,80;0,98;Atrasado
+156 - Operação de lava rodas (1 operador e 1 lavadora de alta pressão);7,0000;mes;424;01/11/2023;30/06/2025;77,37%;R$ 40.076,62;75,74%;R$ 39.234,80;0,98;Atrasado
+157 - MOVIMENTO DE TERRA	;;;299;01/04/2024;30/05/2025;74,93%;R$ 25.416,60;93,33%;R$ 31.660,76;1,25;Em dia
+158 - TERRAPLENAGEM MECANIZADA;;;299;01/04/2024;30/05/2025;74,93%;R$ 25.416,60;93,33%;R$ 31.660,76;1,25;Em dia
+159 - Corte, bota-fora e aterro para região das piscinas;2.702,9700;m3;299;01/04/2024;30/05/2025;74,93%;R$ 25.416,60;93,33%;R$ 31.660,76;1,25;Em dia
+160 - FUNDAÇÕES E CONTENÇÕES;;;581;22/12/2022;31/03/2025;95,76%;R$ 6.764.478,11;91,42%;R$ 6.457.858,96;0,95;Atrasado
+161 - CONTENÇÃO ;;;341;01/12/2023;31/03/2025;90,32%;R$ 342.512,72;0,00%;;0,00;Atrasado
+162 - Muro de arrimo em alvenaria estrutural - ENTRE LOTES;579,8700;m2;341;01/12/2023;31/03/2025;90,32%;R$ 260.109,01;0,00%;;0,00;Atrasado
+163 - Muro de arrimo em concreto ;110,0000;m2;341;01/12/2023;31/03/2025;90,32%;R$ 82.403,70;0,00%;;0,00;Atrasado
+164 - Estaca hélice;;;477;22/12/2022;31/10/2024;100,00%;R$ 3.850.561,06;100,00%;R$ 3.850.561,06;1,00;Concluído
+165 - Taxa de mobilização estacas hélice contínua ;1,0000;vb;220;22/12/2022;31/10/2023;100,00%;R$ 12.000,00;100,00%;R$ 12.000,00;1,00;Concluído
+166 - Armação CA50 - beneficiado - incluso na estaca;22.243,1600;kg;264;23/10/2023;31/10/2024;100,00%;R$ 199.076,28;100,00%;R$ 199.076,28;1,00;Concluído
+167 - Concreto => 30 Mpa Slump 22+3cm, fator A/C <= 0,6, pedra 0,  consumo mínimo de cimento 400 kg/m3, % de argamassa em massa  =>  55% (incluso perda de 30%);3.038,1000;m3;264;23/10/2023;31/10/2024;100,00%;R$ 1.291.192,50;100,00%;R$ 1.291.192,50;1,00;Concluído
+168 - Execução de estacas tipo Hélice Contínua Diâmetro 25 cm;1.016,0000;m;264;23/10/2023;31/10/2024;100,00%;R$ 35.560,00;100,00%;R$ 35.560,00;1,00;Concluído
+169 - Execução de estacas tipo Hélice Contínua Diâmetro 30 cm;33.063,0000;m;264;23/10/2023;31/10/2024;100,00%;R$ 1.496.431,38;100,00%;R$ 1.496.431,38;1,00;Concluído
+170 - Bota fora de material excedente (incluso empolamento de 30%) ;2.041,5600;m3;173;04/03/2024;31/10/2024;100,00%;R$ 25.356,18;100,00%;R$ 25.356,18;1,00;Concluído
+171 - Preparo cabeça de estacas;2.002,0000;un;250;13/11/2023;31/10/2024;100,00%;R$ 470.470,00;100,00%;R$ 470.470,00;1,00;Concluído
+172 - Taxa de bombeamento de concreto (incluso perda de 30%);2.028,3600;m3;264;23/10/2023;31/10/2024;100,00%;R$ 105.474,72;100,00%;R$ 105.474,72;1,00;Concluído
+173 - Locação retroescavadeira - apoio estacas ;5,0000;mes;264;23/10/2023;31/10/2024;100,00%;R$ 215.000,00;100,00%;R$ 215.000,00;1,00;Concluído
+174 - Fundações rasa - blocos;;;355;10/11/2023;31/03/2025;90,66%;R$ 1.281.243,47;91,11%;R$ 1.287.623,99;1,00;Em dia
+175 - Escavação manual de valas em terra até 2m;2.090,4200;m3;355;10/11/2023;31/03/2025;90,70%;R$ 96.698,69;91,11%;R$ 97.134,60;1,00;Em dia
+176 - Apiloamento de fundo de vala;1.276,3200;m2;354;13/11/2023;31/03/2025;90,68%;R$ 15.045,77;91,11%;R$ 15.117,31;1,00;Em dia
+177 - Lastro de Concreto Magro ;63,8200;m3;354;13/11/2023;31/03/2025;90,68%;R$ 22.280,71;91,12%;R$ 22.387,75;1,00;Em dia
+178 - Forma pronta - chapa compensada 18mm;5.642,2800;m2;354;13/11/2023;31/03/2025;90,68%;R$ 153.492,59;91,11%;R$ 154.222,20;1,00;Em dia
+179 - Armação aço CA50  (perda de 3%);59.177,2900;kg;354;13/11/2023;31/03/2025;90,68%;R$ 320.898,56;91,11%;R$ 322.424,20;1,00;Em dia
+180 - Concreto Fck 30 Mpa - fator A/C <= 0,55 (incluso perda de 5%);507,8800;m3;354;13/11/2023;31/03/2025;90,68%;R$ 258.366,07;91,11%;R$ 259.597,14;1,00;Em dia
+181 - Taxa de Bombeamento (incluso perda de 5%);507,8800;m3;354;13/11/2023;31/03/2025;90,68%;R$ 19.342,91;91,11%;R$ 19.435,08;1,00;Em dia
+182 - Mão-de-obra para fundação superficial baldrames;507,8800;m3;354;13/11/2023;31/03/2025;90,68%;R$ 340.803,73;91,11%;R$ 342.427,60;1,00;Em dia
+183 - Reaterro;1.481,7400;m3;333;13/12/2023;31/03/2025;90,08%;R$ 45.944,18;91,11%;R$ 46.468,03;1,01;Em dia
+184 - Bota fora de material excedente (incluso empolamento de 30%) ;743,2000;m3;354;13/11/2023;31/03/2025;90,68%;R$ 8.370,25;91,11%;R$ 8.410,08;1,00;Em dia
+185 - Fundação rasa - baldrames;;;354;13/11/2023;31/03/2025;90,44%;R$ 74.473,57;92,86%;R$ 76.471,32;1,03;Em dia
+186 - Escavação manual de valas em terra até 2m;202,4100;m3;354;13/11/2023;31/03/2025;90,68%;R$ 9.360,81;92,86%;R$ 9.585,45;1,02;Em dia
+187 - Apiloamento de fundo de vala;134,7600;m2;354;13/11/2023;31/03/2025;90,68%;R$ 1.588,60;92,85%;R$ 1.626,69;1,02;Em dia
+188 - Lastro de Concreto Magro ;6,7400;m3;354;13/11/2023;31/03/2025;90,68%;R$ 2.353,06;92,88%;R$ 2.410,10;1,02;Em dia
+189 - Forma pronta - chapa compensada 18mm;268,5700;m2;354;13/11/2023;31/03/2025;90,68%;R$ 7.306,18;92,86%;R$ 7.481,70;1,02;Em dia
+190 - Armação aço CA50  (perda de 3%);2.244,0700;kg;312;15/01/2024;31/03/2025;89,42%;R$ 13.966,89;92,86%;R$ 14.503,11;1,04;Em dia
+191 - Concreto Fck 30 Mpa - fator A/C <= 0,55 (incluso perda de 5%);28,0500;m3;354;13/11/2023;31/03/2025;90,68%;R$ 14.269,45;92,87%;R$ 14.614,05;1,02;Em dia
+192 - Taxa de Bombeamento (incluso perda de 5%);28,0500;m3;354;13/11/2023;31/03/2025;90,68%;R$ 1.068,30;92,87%;R$ 1.094,10;1,02;Em dia
+193 - Mão-de-obra para fundação superficial baldrames;28,0500;m3;354;13/11/2023;31/03/2025;90,68%;R$ 18.822,45;92,87%;R$ 19.277,00;1,02;Em dia
+194 - Reaterro;167,6200;m3;354;13/11/2023;31/03/2025;90,68%;R$ 5.231,76;92,86%;R$ 5.357,47;1,02;Em dia
+195 - Bota fora de material excedente (incluso empolamento de 30%) ;45,2300;m3;333;13/12/2023;31/03/2025;90,08%;R$ 506,06;92,86%;R$ 521,64;1,03;Em dia
+196 - Fundação rasa - sapatas;;;416;14/08/2023;31/03/2025;90,80%;R$ 1.215.687,30;92,86%;R$ 1.243.202,60;1,02;Em dia
+197 - Escavação manual de valas em terra até 2m;1.542,8400;m3;416;14/08/2023;31/03/2025;92,06%;R$ 72.440,41;92,86%;R$ 73.064,64;1,01;Em dia
+198 - Apiloamento de fundo de vala;1.787,6900;m2;354;13/11/2023;31/03/2025;90,68%;R$ 21.074,00;92,86%;R$ 21.580,00;1,02;Em dia
+199 - Lastro de Concreto Magro ;89,3800;m3;354;13/11/2023;31/03/2025;90,68%;R$ 31.204,17;92,86%;R$ 31.955,00;1,02;Em dia
+200 - Forma pronta - chapa compensada 18mm;3.710,0000;m2;354;13/11/2023;31/03/2025;90,68%;R$ 100.926,84;92,86%;R$ 103.350,00;1,02;Em dia
+201 - Armação aço CA50  (perda de 3%);60.239,0000;kg;354;13/11/2023;31/03/2025;90,68%;R$ 326.655,86;92,86%;R$ 334.498,54;1,02;Em dia
+202 - Concreto Fck 30 Mpa - fator A/C <= 0,55 (incluso perda de 3%);522,0000;m3;354;13/11/2023;31/03/2025;90,68%;R$ 198.806,83;92,86%;R$ 203.578,20;1,02;Em dia
+203 - Taxa de Bombeamento (incluso perda de 3%);522,0000;m3;354;13/11/2023;31/03/2025;90,68%;R$ 75.735,94;92,86%;R$ 77.553,60;1,02;Em dia
+204 - Mão-de-obra para fundação superficial blocos;522,0000;m3;354;13/11/2023;31/03/2025;90,68%;R$ 350.278,70;92,86%;R$ 358.685,40;1,02;Em dia
+205 - Reaterro;931,4600;m3;354;13/11/2023;31/03/2025;90,68%;R$ 29.072,78;92,86%;R$ 29.770,89;1,02;Em dia
+206 - Bota fora de material excedente (incluso empolamento de 30%) ;794,8000;m3;312;13/12/2023;28/02/2025;96,15%;R$ 9.491,77;92,86%;R$ 9.166,33;0,97;Atrasado
+207 - ESTRUTURA;;;389;23/11/2023;30/05/2025;78,71%;R$ 13.635.679,95;67,07%;R$ 11.618.679,67;0,85;Atrasado
+208 - ESTRUTURA DE CONCRETO ARMADO;;;389;23/11/2023;30/05/2025;80,54%;R$ 11.889.178,31;68,73%;R$ 10.144.892,63;0,85;Atrasado
+209 - Forma pré fabricada plastif 18mm;6.119,2400;m2;389;23/11/2023;30/05/2025;80,72%;R$ 509.874,21;68,73%;R$ 434.143,06;0,85;Atrasado
+210 - Armação CA-50 média - beneficiado;634.142,0000;kg;389;23/11/2023;30/05/2025;80,72%;R$ 3.060.887,26;68,73%;R$ 2.606.254,43;0,85;Atrasado
+211 - Taxa de bombeamento de concreto;4.834,0000;m3;389;23/11/2023;30/05/2025;80,72%;R$ 163.876,08;68,73%;R$ 139.535,76;0,85;Atrasado
+212 - Laje tipo Vigotas - Laje Treliçada;28.539,0000;m2;372;18/12/2023;30/05/2025;79,82%;R$ 2.266.194,25;68,73%;R$ 1.951.208,68;0,86;Atrasado
+213 - Concreto usinado fck 30MPa;4.834,0000;m3;389;23/11/2023;30/05/2025;80,72%;R$ 1.720.698,85;68,73%;R$ 1.465.125,48;0,85;Atrasado
+214 - MO Concreto estrutura;4.820,9000;m3;389;23/11/2023;30/05/2025;80,72%;R$ 3.502.113,88;68,73%;R$ 2.981.943,00;0,85;Atrasado
+215 - Locação escoramento metálico;98.159,2400;m3xmes;389;23/11/2023;30/05/2025;80,72%;R$ 665.533,79;68,73%;R$ 566.682,23;0,85;Atrasado
+216 - Estrutura metálica;;;146;01/11/2024;30/05/2025;48,64%;R$ 508.542,95;0,00%;;0,00;Atrasado
+217 - Estrutura metálica Passarela Clube + Cobertura Portaria;29.220,9100;kg;146;01/11/2024;30/05/2025;48,64%;R$ 508.542,95;0,00%;;0,00;Atrasado
+218 - Piso de concreto;;;320;01/02/2024;30/04/2025;83,13%;R$ 1.109.343,07;99,56%;R$ 1.328.564,80;1,20;Em dia
+219 - Piso em concreto, h=8cm fck>30MPa;8.009,5300;m2;320;01/02/2024;30/04/2025;83,13%;R$ 1.109.343,07;99,56%;R$ 1.328.564,80;1,20;Em dia
+220 - Controle tecnológico;;;255;03/06/2024;30/05/2025;70,58%;R$ 128.615,61;79,69%;R$ 145.222,23;1,13;Em dia
+221 - Controle tecnológico do concreto da superestrutura - concreto;7.824,6900;m3;255;03/06/2024;30/05/2025;70,58%;R$ 128.615,61;79,69%;R$ 145.222,23;1,13;Em dia
+222 - ALVENARIAS, VEDAÇÕES E FECHAMENTOS	;;;344;01/07/2024;30/10/2025;56,94%;R$ 2.390.740,40;42,97%;R$ 1.804.236,68;0,75;Atrasado
+223 - ALVENARIA DE VEDAÇÃO COM BLOCO DE CONCRETO	;;;278;01/07/2024;30/07/2025;57,57%;R$ 2.340.527,49;42,61%;R$ 1.732.390,54;0,74;Atrasado
+224 - Bl cerâmico 14x19x39cm;39.039,5300;m2;278;01/07/2024;30/07/2025;57,57%;R$ 2.123.295,88;42,61%;R$ 1.571.602,05;0,74;Atrasado
+225 - Bl concr estrut 14x19x39cm arg.usinada - 10 Mpa - preenchida;3.315,7100;m2;278;01/07/2024;30/07/2025;57,57%;R$ 217.231,61;42,61%;R$ 160.788,49;0,74;Atrasado
+226 - Vergas / Cintas / Pilaretes;;;278;01/07/2024;30/07/2025;57,57%;R$ 50.212,90;82,37%;R$ 71.846,14;1,43;Em dia
+227 - Vergas de concreto armado;177,6800;m;278;01/07/2024;30/07/2025;57,57%;R$ 50.212,90;82,37%;R$ 71.846,14;1,43;Em dia
+228 - Divisórias;;;22;01/10/2025;30/10/2025;0,00%;;0,00%;;0,00;Não iniciado
+229 - Divisória em granito Branco siena ;30,9800;m2;22;01/10/2025;30/10/2025;0,00%;;0,00%;;0,00;Não iniciado
+230 - Porta de divisória de granito;13,0000;un;22;01/10/2025;30/10/2025;0,00%;;0,00%;;0,00;Não iniciado
+231 - ESQUADRIAS DE ALUMÍNIO / SERRALHERIA DE ALUMÍNIO	;;;365;01/07/2024;28/11/2025;43,02%;R$ 4.993.400,71;14,24%;R$ 1.652.871,36;0,33;Atrasado
+232 - ESQUADRIAS DE ALUMÍNIO;;;365;01/07/2024;28/11/2025;43,02%;R$ 4.993.400,71;14,24%;R$ 1.652.871,36;0,33;Atrasado
+233 - Chumbamento de contramarcos;11.710,7800;m;300;01/07/2024;29/08/2025;53,34%;R$ 118.679,62;16,80%;R$ 37.391,42;0,32;Atrasado
+234 - Esquadrias  em alumínio - Residencias A ao D;6.320,7400;m2;365;01/07/2024;28/11/2025;43,83%;R$ 3.435.816,25;14,19%;R$ 1.112.297,69;0,32;Atrasado
+235 - Esquadrias  em alumínio - Clube;310,8700;m2;365;01/07/2024;28/11/2025;43,83%;R$ 166.691,61;14,19%;R$ 53.964,02;0,32;Atrasado
+236 - Esquadrias  em alumínio - Portaria;6,3000;m2;365;01/07/2024;28/11/2025;43,83%;R$ 2.609,54;14,18%;R$ 844,17;0,32;Atrasado
+237 - Gradil em Alumínio com pintura elétrostatica e2 portões;836,0500;ml;234;01/10/2024;29/08/2025;40,18%;R$ 403.109,87;14,19%;R$ 142.362,48;0,35;Atrasado
+238 - Guarda-corpo de vidro;1.324,6500;m;234;01/10/2024;29/08/2025;40,18%;R$ 866.493,83;14,19%;R$ 306.011,58;0,35;Atrasado
+239 - ESQUADRIAS DE FERRO / SERRALHERIA DE FERRO;;;342;01/08/2024;28/11/2025;13,69%;R$ 338.986,88;0,84%;R$ 20.736,10;0,06;Atrasado
+240 - SERRALHERIA DE FERRO;;;342;01/08/2024;28/11/2025;13,69%;R$ 338.986,88;0,84%;R$ 20.736,10;0,06;Atrasado
+241 - Corrimão com pintura em tinta esmalte;1.095,9500;m;233;01/08/2024;30/06/2025;58,81%;R$ 128.910,02;1,46%;R$ 3.194,00;0,02;Atrasado
+242 - Requadro Metálico - Largura: 32,5cm (Moldura Janelas);4.038,7400;m;83;03/02/2025;30/05/2025;9,64%;R$ 182.987,23;0,87%;R$ 16.501,70;0,09;Atrasado
+243 - Requadro Metálico - Largura: 20cm (Moldura Janelas);369,9400;m;83;03/02/2025;30/05/2025;9,64%;R$ 9.985,42;0,87%;R$ 898,80;0,09;Atrasado
+244 - Alçapão - 60x60cm;116,0000;un;234;02/09/2024;31/07/2025;49,15%;R$ 17.104,20;0,00%;;0,00;Atrasado
+245 - Alambrado - 5120x550cm;281,6000;m2;130;02/06/2025;28/11/2025;0,00%;;0,00%;;0,00;Não iniciado
+246 - Requadro Metálico - Largura: 70cm (Moldura Portas);28,1000;m;130;02/06/2025;28/11/2025;0,00%;;0,85%;R$ 141,60;0,00;Não iniciado
+247 - Requadro Metálico - Largura: 50cm (Moldura Portas);69,1700;m;130;02/06/2025;28/11/2025;0,00%;;0,00%;;0,00;Não iniciado
+248 - Requadro Metálico - Largura: 65cm (Moldura Vão);36,6500;m;130;02/06/2025;28/11/2025;0,00%;;0,00%;;0,00;Não iniciado
+249 - Requadro Metálico - Largura: 80cm (Moldura Portas);8,4800;m;130;02/06/2025;28/11/2025;0,00%;;0,00%;;0,00;Não iniciado
+250 - Gradil Acesso Pedestres - 270x230cm;1,0000;un;21;01/04/2025;30/04/2025;0,00%;;0,00%;;0,00;Não iniciado
+251 - ESQUADRIAS DE MADEIRA / MARCENARIA;;;299;02/09/2024;30/10/2025;38,47%;R$ 337.403,07;1,05%;R$ 9.210,96;0,03;Atrasado
+252 - ESQUADRIAS DE MADEIRA - KIT PORTA PRONTA;;;299;02/09/2024;30/10/2025;38,47%;R$ 337.403,07;1,05%;R$ 9.210,96;0,03;Atrasado
+253 - PM02 - Porta de abrir, 01 folha, em madeira lisa, acabamento em esmalte fosco na cor branca - 0,70x2,10m;1.125,0000;un;299;02/09/2024;30/10/2025;38,47%;R$ 332.164,49;1,07%;R$ 9.210,96;0,03;Atrasado
+254 - PM03 - Porta de abrir, 01 folha, em madeira lisa, acabamento em esmalte fosco na cor branca - 0,80x2,10m;9,0000;un;299;02/09/2024;30/10/2025;38,47%;R$ 3.127,45;0,00%;;0,00;Atrasado
+255 - PM03 - Porta de abrir, 01 folha, em madeira lisa, acabamento em esmalte fosco na cor branca - 0,90x2,10m;6,0000;un;299;02/09/2024;30/10/2025;38,47%;R$ 2.111,14;0,00%;;0,00;Atrasado
+256 - ESQUADRIAS ESPECIAIS;;;21;01/04/2025;30/04/2025;0,00%;;0,00%;;0,00;Não iniciado
+257 - BLINDADOS;;;21;01/04/2025;30/04/2025;0,00%;;0,00%;;0,00;Não iniciado
+258 - AL60 Caixilho fixo de alumínio com vidro blindado - 271x114cm;1,0000;un;21;01/04/2025;30/04/2025;0,00%;;0,00%;;0,00;Não iniciado
+259 - AL61 Caixilho fixo de alumínio com vidro blindado - 260x114cm;1,0000;un;21;01/04/2025;30/04/2025;0,00%;;0,00%;;0,00;Não iniciado
+260 - AL63 Caixilho fixo de alumínio com vidro blindado - 271x114cm;1,0000;un;21;01/04/2025;30/04/2025;0,00%;;0,00%;;0,00;Não iniciado
+261 - AL64 Porta de alumínio com 1 folha de correr - 100x210cm;1,0000;un;21;01/04/2025;30/04/2025;0,00%;;0,00%;;0,00;Não iniciado
+262 - Passa volume;1,0000;un;21;01/04/2025;30/04/2025;0,00%;;0,00%;;0,00;Não iniciado
+263 - COBERTURAS;;;277;01/08/2024;29/08/2025;49,07%;R$ 1.347.686,85;2,40%;R$ 65.880,64;0,05;Atrasado
+264 - CALHAS E RUFOS;;;255;02/09/2024;29/08/2025;45,09%;R$ 220.083,97;1,95%;R$ 9.502,20;0,04;Atrasado
+265 - Calha em chapa de aço galvanizada #22;1.801,4900;m;255;02/09/2024;29/08/2025;45,09%;R$ 48.733,19;0,87%;R$ 939,60;0,02;Atrasado
+266 - Rufo 19cm;5.563,8200;m;255;02/09/2024;29/08/2025;45,09%;R$ 150.510,23;2,25%;R$ 7.495,20;0,05;Atrasado
+267 - Rufo 33cm;513,6000;m;255;02/09/2024;29/08/2025;45,09%;R$ 20.840,55;2,31%;R$ 1.067,40;0,05;Atrasado
+268 - Cobertura;;;277;01/08/2024;29/08/2025;49,93%;R$ 1.127.602,87;2,50%;R$ 56.378,44;0,05;Atrasado
+269 - Estrutura para cobertura + telhas metálicas e=0,50mm;1.215,4700;m2;255;02/09/2024;29/08/2025;45,09%;R$ 433.045,94;0,87%;R$ 8.352,63;0,02;Atrasado
+270 - Impermeabilização PRIMER, ASFALTO OXIDADO, MANTA ASFÁLTICA, 4MM, TIPO IV-CLASSE B, AA, BANHO DE ASFALTO OXIDADO COM ISOLAMENTO TERMICO XPS;5.376,4300;m2;256;01/08/2024;31/07/2025;53,52%;R$ 694.556,94;3,70%;R$ 48.025,81;0,07;Atrasado
+271 - IMPERMEABILIZAÇÃO E TRATAMENTO ACÚSTICO;;;364;01/03/2024;31/07/2025;57,72%;R$ 1.118.810,05;8,21%;R$ 159.158,27;0,14;Atrasado
+272 - IMPERMEABILIZAÇÃO;;;364;01/03/2024;31/07/2025;57,72%;R$ 1.118.810,05;8,21%;R$ 159.158,27;0,14;Atrasado
+273 - Impermeabilização tipo 1 Cristalização (Sistema Especial);21,2100;m2;279;01/07/2024;31/07/2025;57,35%;R$ 1.101,89;0,00%;;0,00;Atrasado
+274 - Impermeabilização tipo 3 Argamassa polimérica flexível   (Membrana de polímero acrílico com cimento);16.578,0800;m2;279;01/07/2024;31/07/2025;57,35%;R$ 543.051,11;8,70%;R$ 82.342,48;0,15;Atrasado
+275 - Impermeabilização tipo 5 Manta asfáltica, 3mm,Tipo III-classe B, AA Manta asfáltica, 4mm, Tipo IV-classe B, AA;1.987,4400;m2;279;01/07/2024;31/07/2025;57,35%;R$ 290.900,20;6,96%;R$ 35.288,10;0,12;Atrasado
+276 - Tratamento p/ eflorescência (*) Membrana de polímero acrílico com cimento para  impermeabilização (argamassa polimérica flexível);304,0300;m2;279;01/07/2024;31/07/2025;57,35%;R$ 28.756,39;0,00%;;0,00;Atrasado
+277 - Impermeabilização tipo 6 Argamassa polimérica flexível monocomponente (membrana de polímero acrílico com cimento - Tipo Bautech Piscina da Bautech ou equivalente técnico);304,0200;m2;279;01/07/2024;31/07/2025;57,35%;R$ 12.964,62;7,83%;R$ 1.769,77;0,14;Atrasado
+278 - Impermeabilização tipo 7 Primer Manta asfáltica, 4mm, Tipo IV-classe B, PP Aderida à maçarico;3.309,9800;m2;279;01/07/2024;31/07/2025;57,35%;R$ 213.282,57;3,48%;R$ 12.936,01;0,06;Atrasado
+279 - PENETRON NA LAJE DO TÉRREO;247,0500;m3;320;01/03/2024;30/05/2025;76,57%;R$ 28.753,26;71,43%;R$ 26.821,92;0,93;Atrasado
+280 - REVESTIMENTOS DE PAREDES INTERNAS;;;299;01/08/2024;30/09/2025;45,82%;R$ 1.133.373,04;14,52%;R$ 359.116,15;0,32;Atrasado
+281 - ARGAMASSAS EM PAREDES INTERNAS;;;233;02/09/2024;30/07/2025;49,36%;R$ 187.057,23;26,36%;R$ 99.910,06;0,53;Atrasado
+282 - Chapisco 1mm em paredes internas;6.074,8900;m2;233;02/09/2024;30/07/2025;49,36%;R$ 33.525,32;24,33%;R$ 16.523,93;0,49;Atrasado
+283 - Emboço e=2cm em paredes internas;6.074,8900;m2;233;02/09/2024;30/07/2025;49,36%;R$ 143.907,00;24,33%;R$ 70.928,74;0,49;Atrasado
+284 - Faixa em Chapisco e Emboço;658,9600;m;233;02/09/2024;30/07/2025;49,36%;R$ 9.624,91;63,89%;R$ 12.457,39;1,29;Em dia
+285 - Gesso liso em paredes internas;;;277;01/08/2024;29/08/2025;49,46%;R$ 556.286,36;21,28%;R$ 239.330,43;0,43;Atrasado
+286 - Gesso liso sobre bloco;41.968,8500;m2;277;01/08/2024;29/08/2025;49,46%;R$ 556.286,36;21,28%;R$ 239.330,43;0,43;Atrasado
+287 - Regularização de paredes;;;44;01/07/2025;29/08/2025;0,00%;;0,00%;;0,00;Não iniciado
+288 - MO regularização = caiação poço elevador;73,0600;m2;44;01/07/2025;29/08/2025;0,00%;;0,00%;;0,00;Não iniciado
+289 - Cerâmica, pastilhas e porcelanatos sobre paredes;;;277;02/09/2024;30/09/2025;41,52%;R$ 390.029,44;2,12%;R$ 19.875,66;0,05;Atrasado
+290 - Revestimento de parede Eliane Branco 15x15cm;1.712,8800;m2;277;02/09/2024;30/09/2025;41,52%;R$ 84.435,26;3,48%;R$ 7.073,93;0,08;Atrasado
+291 - Porcelanato Eliane Minimum Cimento NA 60x60cm;2.035,6000;m2;277;02/09/2024;30/09/2025;41,52%;R$ 128.537,40;1,74%;R$ 5.383,99;0,04;Atrasado
+292 - Porcelanato Eliane Minimum Nude NA 60x60cm;2.333,2600;m2;277;02/09/2024;30/09/2025;41,52%;R$ 153.368,21;1,74%;R$ 6.424,63;0,04;Atrasado
+293 - Revestimento Cerâmico Gouache - Ref.: Portobello - Dimensões: 12,5 x 15,5 cm - Cor: NUAJE;70,1500;m2;277;02/09/2024;30/09/2025;41,52%;R$ 4.650,66;1,74%;R$ 194,81;0,04;Atrasado
+294 - Pastilha retangular Blocks 7,3x2,3 cor: Branco Fornecedor: Portobello Rejunte epóxi Quartzobrás Cor: Cinza artico;66,4900;m2;277;02/09/2024;30/09/2025;41,52%;R$ 3.549,22;1,74%;R$ 149,14;0,04;Atrasado
+295 - Porcelanato Natural Acetinado Borda Reta Bianco 62,5x62,5cm - Cerâmica Elisabeth;258,0300;m2;277;02/09/2024;30/09/2025;41,52%;R$ 15.488,70;1,74%;R$ 649,16;0,04;Atrasado
+296 - Revestimentos internos diversos;;;22;01/09/2025;30/09/2025;0,00%;;0,00%;;0,00;Não iniciado
+297 - Placa Acústica Modular Fiberwood - Ref.: Fornecedor Sonex - Cor: Branco - Linha: Classic;42,9700;m2;22;01/09/2025;30/09/2025;0,00%;;0,00%;;0,00;Não iniciado
+298 - Mr. Brulee - Ref.: Fornecedor Protécnica;47,4200;m2;22;01/09/2025;30/09/2025;0,00%;;0,00%;;0,00;Não iniciado
+299 - Piso vinílico Tarkett Murano Linha Ambienta;26,3900;m2;22;01/09/2025;30/09/2025;0,00%;;0,00%;;0,00;Não iniciado
+300 - FACHADA;;;342;01/08/2024;28/11/2025;46,60%;R$ 3.279.034,18;7,06%;R$ 496.941,17;0,15;Atrasado
+301 - ARGAMASSA EM PAREDES EXTERNAS;;;233;01/08/2024;30/06/2025;58,81%;R$ 2.502.387,37;11,30%;R$ 480.988,03;0,19;Atrasado
+302 - Chapisco em paredes externas ;42.173,5800;m2;233;01/08/2024;30/06/2025;58,81%;R$ 540.212,08;11,30%;R$ 103.835,06;0,19;Atrasado
+303 - Massa única com argamassa industrializada 4cm em paredes externas;42.173,5800;m2;233;01/08/2024;30/06/2025;58,81%;R$ 1.962.175,29;11,30%;R$ 377.152,97;0,19;Atrasado
+304 - Revestimentos metálicos em paredes externas;;;110;02/06/2025;31/10/2025;0,00%;;0,00%;;0,00;Não iniciado
+305 - Revestimento Metálico HunterDouglas Miniwave perfurado cor branca;348,8900;m2;110;02/06/2025;31/10/2025;0,00%;;0,00%;;0,00;Não iniciado
+306 - Revestimento ACM na estrutura metálica;140,0000;m2;110;02/06/2025;31/10/2025;0,00%;;0,00%;;0,00;Não iniciado
+307 - Pintura em paredes externas / fachadas;;;320;02/09/2024;28/11/2025;36,44%;R$ 603.349,26;0,00%;;0,00;Atrasado
+308 - Textura tipo Ibratin rolada sobre reboco - Cor cinza MAT (pano);25.078,8900;m2;320;02/09/2024;28/11/2025;35,94%;R$ 270.400,59;0,00%;;0,00;Atrasado
+309 - Textura tipo Ibratin rolada sobre reboco - Cor branca MAT (pano);16.674,3600;m2;320;02/09/2024;28/11/2025;35,94%;R$ 179.782,95;0,00%;;0,00;Atrasado
+310 - Madeiras Ecológicas largura 14cm;567,5600;m2;277;02/09/2024;30/09/2025;41,52%;R$ 153.165,71;0,00%;;0,00;Atrasado
+311 - Concreto aparente paginado - Proteção: hidro-óleofugante - ref: Aquarella Stone da Vedacit (fosco) - MAT e MO  (pano);97,5400;m2;43;01/10/2025;28/11/2025;0,00%;;0,00%;;0,00;Não iniciado
+312 - Pedras naturais em paredes externas;;;277;02/09/2024;30/09/2025;24,42%;R$ 173.297,56;2,25%;R$ 15.953,14;0,09;Atrasado
+313 - Ladrilho Fábio Flaks 20x20cm;564,0300;m2;233;02/09/2024;30/07/2025;49,36%;R$ 173.297,56;4,54%;R$ 15.953,14;0,09;Atrasado
+314 - Deck em madeira ecológica cor Natural, em réguas L=14cm, fornecedor Madeiras Ecológicas. Sistema de fixação por presilhas de alumínio invisíveis;364,5500;m2;22;01/09/2025;30/09/2025;0,00%;;0,00%;;0,00;Não iniciado
+315 - REVESTIMENTOS DE TETOS;;;387;01/07/2024;31/12/2025;28,30%;R$ 436.822,75;4,54%;R$ 70.108,14;0,16;Atrasado
+316 - ARGAMASSA EM TETOS;;;235;01/07/2024;30/05/2025;68,07%;R$ 22.526,69;23,07%;R$ 7.635,17;0,34;Atrasado
+317 - Chapisco rolado em teto;7.695,6900;m2;235;01/07/2024;30/05/2025;68,07%;R$ 22.526,69;23,07%;R$ 7.635,17;0,34;Atrasado
+318 - Gesso liso em tetos;;;299;01/08/2024;30/09/2025;45,83%;R$ 85.005,03;22,04%;R$ 40.882,72;0,48;Atrasado
+319 - Gesso liso sobre teto ( DESEMPENADO);11.593,4500;m2;299;01/08/2024;30/09/2025;45,83%;R$ 85.005,03;22,04%;R$ 40.882,72;0,48;Atrasado
+320 - Forro de Gesso;;;300;02/09/2024;31/10/2025;29,12%;R$ 329.291,03;1,91%;R$ 21.590,25;0,07;Atrasado
+321 - Forro de Gesso Acartonado ST;6.573,8100;m2;300;02/09/2024;31/10/2025;38,34%;R$ 143.655,23;2,00%;R$ 7.489,23;0,05;Atrasado
+322 - Forro de Gesso Acartonado RU;7.336,4900;m2;300;02/09/2024;31/10/2025;38,34%;R$ 185.635,79;1,88%;R$ 9.098,10;0,05;Atrasado
+323 - Tabica metálica para forro de gesso;15.111,7200;m;;;;0,00%;;1,84%;R$ 5.002,92;0,00;Não planejado
+324 - Forros especiais;;;87;01/09/2025;31/12/2025;0,00%;;0,00%;;0,00;Não iniciado
+325 - Forro Acústico Modular Fiberwood - Ref.: Fornecedor Sonex - Dimensões da placa: 125x62,5cm, Espessura 17mm - Cor: Branco - Linha: Classic;26,5000;m2;87;01/09/2025;31/12/2025;0,00%;;0,00%;;0,00;Não iniciado
+326 - Forro em madeira Cumarú em réguas, largura 10cm e comprimento variado;218,0000;m2;87;01/09/2025;31/12/2025;0,00%;;0,00%;;0,00;Não iniciado
+327 - REVESTIMENTOS DE PISO INTERNOS	;;;365;01/07/2024;28/11/2025;48,88%;R$ 1.874.352,22;8,29%;R$ 318.058,32;0,17;Atrasado
+328 - ARGAMASSA PARA PISOS INTERNOS;;;256;01/07/2024;30/06/2025;62,51%;R$ 462.197,21;38,31%;R$ 283.280,22;0,61;Atrasado
+329 - Contrapiso desempenado e= 6,0 cm;14.408,3600;m2;256;01/07/2024;30/06/2025;62,51%;R$ 338.131,87;32,17%;R$ 174.025,30;0,51;Atrasado
+330 - Contrapiso desempenado e= 6,0 cm;5.286,6300;m2;256;01/07/2024;30/06/2025;62,51%;R$ 124.065,34;55,05%;R$ 109.254,91;0,88;Atrasado
+331 - Cerâmicas, porcelanatos e pastilhas em pisos;;;322;01/08/2024;31/10/2025;42,54%;R$ 699.619,45;1,74%;R$ 28.600,23;0,04;Atrasado
+332 - Porcelanato Eliane Minimum Cimento NA 60x60cm;5.337,3400;m2;322;01/08/2024;31/10/2025;42,54%;R$ 364.086,91;1,74%;R$ 14.884,36;0,04;Atrasado
+333 - Porcelanato Eliane Minimum Nude NA 60x60cm;1.302,3000;m2;322;01/08/2024;31/10/2025;42,54%;R$ 92.288,19;1,74%;R$ 3.771,14;0,04;Atrasado
+334 - Rodapé h=5cm em Porcelanato Eliane Minimum Cimento NA 60x60cm;3.205,7900;m;322;01/08/2024;31/10/2025;42,54%;R$ 118.261,28;1,74%;R$ 4.834,95;0,04;Atrasado
+335 - Rodapé h=5cm em Porcelanato Eliane Minimum Nude NA 60x60cm;2.968,9100;m;322;01/08/2024;31/10/2025;42,54%;R$ 124.983,06;1,74%;R$ 5.109,78;0,04;Atrasado
+336 - Piso internos em mármores e granitos;;;342;01/08/2024;28/11/2025;49,12%;R$ 712.535,56;0,43%;R$ 6.177,86;0,01;Atrasado
+337 - Pedra basalto cinza flameado 40x80cm - Porcelanato Eliane Minimum Cimento NA 60x60cm;4.475,8600;m2;299;01/08/2024;30/09/2025;45,83%;R$ 328.874,59;0,00%;;0,00;Atrasado
+338 - Soleira em Granito Branco Siena Escovado;1.867,7400;m;256;01/08/2024;31/07/2025;53,52%;R$ 115.813,99;1,21%;R$ 2.613,58;0,02;Atrasado
+339 - Peitoril em Granito Branco Siena Escovado;1.082,2500;m;256;01/08/2024;31/07/2025;53,52%;R$ 114.022,23;0,00%;;0,00;Atrasado
+340 - Baguete em Granito Branco Siena Escovado;389,3500;m;233;01/08/2024;30/06/2025;58,81%;R$ 16.475,43;4,03%;R$ 1.128,90;0,07;Atrasado
+341 - Capa em Granito Branco Siena Escovado;716,9400;m;256;01/08/2024;31/07/2025;53,52%;R$ 80.856,80;0,87%;R$ 1.314,83;0,02;Atrasado
+342 - Tento em Granito Branco Siena Escovado;387,2100;m;233;01/08/2024;30/06/2025;58,81%;R$ 21.265,05;3,10%;R$ 1.120,56;0,05;Atrasado
+343 - PEDRA hijau em placas 10x10cm, e=1,5cm, acabamento liso natural. - Pedra Mineira;405,1800;m2;299;01/08/2024;30/09/2025;45,83%;R$ 34.955,70;0,00%;;0,00;Atrasado
+344 - Bordas em Pedra Mineira - Piscina;64,2700;m;22;01/09/2025;30/09/2025;0,00%;;0,00%;;0,00;Não iniciado
+345 - Rodapé 2x2cm em Pedra Granito Cinza Andorinha, acabamento levigado.;17,3500;m;23;01/10/2025;31/10/2025;0,00%;;0,00%;;0,00;Não iniciado
+346 - Soleira em Granito cinza andorinha apicoado;44,4400;m;213;03/02/2025;28/11/2025;3,76%;R$ 271,77;0,00%;;0,00;Atrasado
+347 - PINTURA;;;364;01/08/2024;31/12/2025;33,38%;R$ 527.327,85;1,44%;R$ 22.697,77;0,04;Atrasado
+348 - PINTURA EM PAREDES INTERNAS;;;320;02/09/2024;28/11/2025;38,34%;R$ 324.672,23;1,89%;R$ 15.975,85;0,05;Atrasado
+349 - Pintura Látex PVA branca sobre bloco;3.451,2400;m2;234;02/09/2024;31/07/2025;49,15%;R$ 22.051,70;1,70%;R$ 762,97;0,03;Atrasado
+350 - Pintura acrílica fosca off white, Ref. Suvinil Algodão Egípcio, Cod.: RM009 sobre massa;1.669,9000;m2;277;02/09/2024;30/09/2025;41,52%;R$ 24.959,13;25,31%;R$ 15.212,88;0,61;Atrasado
+351 - Pintura acrílica fosca off white, Ref. Suvinil Branco Neve sobre massa;45.265,3700;m2;300;02/09/2024;31/10/2025;38,34%;R$ 277.661,40;0,00%;;0,00;Atrasado
+352 - Pintura acrílica acetinada, Linha Toque de seda, Ref. Suvinil Branco neve (Paredes);1.023,7300;m2;65;01/09/2025;28/11/2025;0,00%;;0,00%;;0,00;Não iniciado
+353 - Pintura acrílica fosca, Ref. Suvinil Papel Picado;13,1400;m2;43;01/10/2025;28/11/2025;0,00%;;0,00%;;0,00;Não iniciado
+354 - 'Pintura acrílica fosca, Ref. Suvinil Coala;17,0200;m2;43;01/10/2025;28/11/2025;0,00%;;0,00%;;0,00;Não iniciado
+355 - Pintura em tetos e forros;;;320;02/09/2024;28/11/2025;20,07%;R$ 83.664,15;1,61%;R$ 6.721,92;0,08;Atrasado
+356 - Pintura Acrílica Sobre Forro de Gesso Branca;13.910,3000;m2;64;02/09/2025;28/11/2025;0,00%;;1,94%;R$ 4.328,64;0,00;Não iniciado
+357 - Pintura Látex Acrílico Branca sobre massa;11.593,4500;m2;255;02/09/2024;29/08/2025;45,09%;R$ 83.632,37;1,29%;R$ 2.393,28;0,03;Atrasado
+358 - Pintura acrílica acetinada, Linha Toque de seda, Ref. Suvinil Branco neve (Tetos/Forros);18,3200;m2;83;03/02/2025;30/05/2025;9,64%;R$ 31,79;0,00%;;0,00;Atrasado
+359 - Pintura acrílica fosca off white, Ref. Suvinil Branco Neve sobre massa;465,6300;m2;64;02/09/2025;28/11/2025;0,00%;;0,00%;;0,00;Não iniciado
+360 - Pintura sobre superfícies metálicas;;;364;01/08/2024;31/12/2025;37,63%;R$ 118.991,47;0,00%;;0,00;Atrasado
+361 - Esmalte sintético sobre esquadrias de ferro (Gradil, Requadros metálicos e Alçapão);10.541,6000;m2;364;01/08/2024;31/12/2025;37,63%;R$ 118.991,47;0,00%;;0,00;Atrasado
+362 - INSTALAÇÕES ELÉTICAS;;;387;01/07/2024;31/12/2025;34,20%;R$ 697.283,74;25,46%;R$ 518.983,39;0,74;Atrasado
+363 - INSTALAÇÕES ELÉTRICAS EM GERAL	;;;387;01/07/2024;31/12/2025;38,08%;R$ 434.326,32;45,13%;R$ 514.828,72;1,19;Em dia
+364 - Instalações elétricas empreitada global Residencial;1,0000;vb;387;01/07/2024;31/12/2025;41,34%;R$ 434.326,32;49,00%;R$ 514.828,72;1,19;Em dia
+365 - Gerador 33KVA;2,0000;un;21;01/08/2025;29/08/2025;0,00%;;0,00%;;0,00;Não iniciado
+366 - Luminárias;;;321;01/10/2024;31/12/2025;29,28%;R$ 262.957,42;0,46%;R$ 4.154,67;0,02;Atrasado
+367 - Luminárias Residência A;1,0000;vb;321;01/10/2024;31/12/2025;29,28%;R$ 27.628,34;0,00%;;0,00;Atrasado
+368 - Luminárias Residência B;1,0000;vb;321;01/10/2024;31/12/2025;29,28%;R$ 40.591,06;0,00%;;0,00;Atrasado
+369 - Luminárias Residência C;1,0000;vb;321;01/10/2024;31/12/2025;29,28%;R$ 60.828,58;2,00%;R$ 4.154,67;0,07;Atrasado
+370 - Luminárias Residência D;1,0000;vb;321;01/10/2024;31/12/2025;29,28%;R$ 40.552,38;0,00%;;0,00;Atrasado
+371 - Luminárias Áreas Comuns;1,0000;vb;321;01/10/2024;31/12/2025;29,28%;R$ 93.357,05;0,00%;;0,00;Atrasado
+372 - INSTALAÇÕES HIDRÁULICAS	;;;493;02/01/2024;28/11/2025;58,12%;R$ 1.837.931,83;47,45%;R$ 1.500.578,62;0,82;Atrasado
+373 - NSTALAÇÕES HIDRÁULICAS EM GERAL;;;493;02/01/2024;28/11/2025;58,12%;R$ 1.837.931,83;47,45%;R$ 1.500.578,62;0,82;Atrasado
+374 - Instalações hidráulicas empreitada global residencial;1,0000;vb;493;02/01/2024;28/11/2025;58,42%;R$ 1.789.179,70;49,00%;R$ 1.500.578,62;0,84;Atrasado
+375 - Reservatório 2.000L;115,0000;un;234;02/09/2024;31/07/2025;49,15%;R$ 45.783,23;0,00%;;0,00;Atrasado
+376 - Tanque 7500L;2,0000;un;255;02/09/2024;29/08/2025;45,09%;R$ 2.958,56;0,00%;;0,00;Atrasado
+377 - Reservatório portaria;1,0000;un;170;03/02/2025;30/09/2025;4,70%;R$ 10,35;0,00%;;0,00;Atrasado
+378 - LOUÇAS, METAIS E ACESSÓRIOS	;;;320;02/09/2024;28/11/2025;43,38%;R$ 976.622,43;0,53%;R$ 11.996,25;0,01;Atrasado
+379 - LOUÇAS	;;;299;01/10/2024;28/11/2025;39,82%;R$ 475.406,45;0,32%;R$ 3.812,25;0,01;Atrasado
+380 - Bacia Sanitária 1 - Bacia com caixa acoplada Celite - Linha City Plus BR - linha Izy - Cod. P.111.17 - Deca;620,0000;un;234;01/10/2024;29/08/2025;40,18%;R$ 81.119,64;0,81%;R$ 1.628,15;0,02;Atrasado
+381 - Tanque 1 - Tanque Médio Deca 30 litros TQ.02.17 + Coluna para tanque CT.25.17;115,0000;un;234;01/10/2024;29/08/2025;40,18%;R$ 24.258,68;0,87%;R$ 525,00;0,02;Atrasado
+382 - Cuba de Apoio 1 - Cuba de apoio redonda Docol 360x120 Cod. 00970926;115,0000;un;234;01/10/2024;29/08/2025;40,18%;R$ 22.701,50;0,87%;R$ 491,30;0,02;Atrasado
+383 - Cuba em aço inox 5 - Cuba de embutir Tramontina Lavínia 47 BL em Aço Inox Polido 47x30 cm Cód. 94052407;230,0000;un;234;01/10/2024;29/08/2025;40,18%;R$ 29.572,48;0,87%;R$ 640,00;0,02;Atrasado
+384 - Cuba de embutir 1 - Cuba de embutir retangular L.375.17;172,0000;un;234;01/10/2024;29/08/2025;40,18%;R$ 3.844,57;0,02%;R$ 2,23;0,00;Atrasado
+385 - Cuba de semi encaixe 1 - Cuba semi encaixe quadrada Docol 410x410x145 Cod. 00970126;275,0000;un;234;01/10/2024;29/08/2025;40,18%;R$ 57.457,40;0,00%;;0,00;Atrasado
+386 - Lavatório 1 - Deca Izy Lavatório L.100.17 + Aspen Coluna para lavatório C.10.17;116,0000;un;234;01/10/2024;29/08/2025;40,18%;R$ 11.652,20;0,00%;;0,00;Atrasado
+387 - Torneira 4 - Torneira para banheiro bica alta Lóggica Cod. 00386306;115,0000;un;234;01/10/2024;29/08/2025;40,18%;R$ 12.756,37;0,87%;R$ 276,07;0,02;Atrasado
+388 - Torneira 5 - Torneira para banheiro Lóggica Cod. 00274006;115,0000;un;234;01/10/2024;29/08/2025;40,18%;R$ 11.528,65;0,87%;R$ 249,50;0,02;Atrasado
+389 - Monocomando 1 - Monocomando de mesa para banheiro Lift. Docol. Cod: 00795906;435,0000;un;234;01/10/2024;29/08/2025;40,18%;R$ 70.989,86;0,00%;;0,00;Atrasado
+390 - Monocomando 2 - Monocomando para cozinha Chess Cód. 00934806;230,0000;un;234;01/10/2024;29/08/2025;40,18%;R$ 37.534,87;0,00%;;0,00;Atrasado
+391 - Acabamento de Registro 1 - Acabamento de Registro de Gaveta Linha Lóggica;345,0000;un;234;01/10/2024;29/08/2025;40,18%;R$ 15.941,42;0,00%;;0,00;Atrasado
+392 - Acabamento de Registro 2 - Acabamento de Registro de Gaveta Linha Chess;230,0000;un;234;01/10/2024;29/08/2025;40,18%;R$ 10.627,61;0,00%;;0,00;Atrasado
+393 - Acabamento de Registro 3 - Acabamentos de registros da linha lift, Docol;780,0000;un;234;01/10/2024;29/08/2025;40,18%;R$ 53.335,09;0,00%;;0,00;Atrasado
+394 - Torneira para jardim/tanque de parede Docol Lóggica Cod. 00610706.;116,0000;un;234;01/10/2024;29/08/2025;40,18%;R$ 6.817,00;0,00%;;0,00;Atrasado
+395 - Torneira para jardim 1130 Docol Primor Cod. 00672806;230,0000;un;234;01/10/2024;29/08/2025;40,18%;R$ 13.516,47;0,00%;;0,00;Atrasado
+396 - Acabamento monocomando para chuveiro DE Lift cromado Cod. 00961806;390,0000;un;234;01/10/2024;29/08/2025;40,18%;R$ 11.752,65;0,00%;;0,00;Atrasado
+397 - Bacia Sanitária 3 - Bacia com caixa acoplada Linha: Acesso Fornecedor: Celite;6,0000;un;193;03/03/2025;28/11/2025;0,00%;;0,00%;;0,00;Não iniciado
+398 - Lavatório 2 - Lavatório PNE com coluna suspensa Linha: Acesso Fornecedor: Celite;6,0000;un;193;03/03/2025;28/11/2025;0,00%;;0,00%;;0,00;Não iniciado
+399 - Bacia Sanitária 2 - Bacia com caixa acoplada Deca - Linha Aspen;9,0000;un;65;01/09/2025;28/11/2025;0,00%;;0,00%;;0,00;Não iniciado
+400 - Cuba de aço inox;;;45;01/09/2025;31/10/2025;0,00%;;0,00%;;0,00;Não iniciado
+401 - Cuba em aço inox 1 - Cuba de embutir Franke 47x32cm Cód. 12823;1,0000;un;45;01/09/2025;31/10/2025;0,00%;;0,00%;;0,00;Não iniciado
+402 - Cuba em aço inox 2 - Cuba de embutir Franke Bell Dupla 83,5x34,5cm Cód. 09005;1,0000;un;45;01/09/2025;31/10/2025;0,00%;;0,00%;;0,00;Não iniciado
+403 - Cuba em aço inox 3 - Cuba de embutir Tramontina 50x40cm aço Inox Acetinado 3 Dupla Alto Brilho /  Franke 71,5x40cm Cód. 09006;1,0000;un;45;01/09/2025;31/10/2025;0,00%;;0,00%;;0,00;Não iniciado
+404 - Cuba em aço inox 4 - Cuba de embutir Franke Bell Dupla 77,5x40cm Cód. 16667;1,0000;un;45;01/09/2025;31/10/2025;0,00%;;0,00%;;0,00;Não iniciado
+405 - Tampos e bancadas;;;300;02/09/2024;31/10/2025;48,32%;R$ 501.215,97;0,79%;R$ 8.184,00;0,02;Atrasado
+406 - Bancada em Granito Branco Siena Escovado - Residencia A;144,0000;un;234;02/09/2024;31/07/2025;49,15%;R$ 96.538,46;0,00%;;0,00;Atrasado
+407 - Bancada em Granito Preto São Gabriel Levigado - Residencia A;24,0000;un;234;02/09/2024;31/07/2025;49,15%;R$ 18.873,60;0,00%;;0,00;Atrasado
+408 - Bancada em Granito Branco Siena Escovado - Residencia B;126,0000;un;234;02/09/2024;31/07/2025;49,15%;R$ 84.471,16;0,00%;;0,00;Atrasado
+409 - Bancada em Granito Preto São Gabriel Levigado - Residencia B;21,0000;un;234;02/09/2024;31/07/2025;49,15%;R$ 16.514,40;0,00%;;0,00;Atrasado
+410 - Bancada em Granito Branco Siena Escovado - Residencia C;252,0000;un;234;02/09/2024;31/07/2025;49,15%;R$ 168.942,31;2,38%;R$ 8.184,00;0,05;Atrasado
+411 - Bancada em Granito Branco Siena Escovado - Residencia D;140,0000;un;234;02/09/2024;31/07/2025;49,15%;R$ 93.856,84;0,00%;;0,00;Atrasado
+412 - Bancada em Granito Preto São Gabriel Levigado - Residencia D;28,0000;un;234;02/09/2024;31/07/2025;49,15%;R$ 22.019,20;0,00%;;0,00;Atrasado
+413 - Bancada em Granito Branco Siena Escovado - Áreas Comuns;7,0000;un;173;03/03/2025;31/10/2025;0,00%;;0,00%;;0,00;Não iniciado
+414 - Bancada em Granito Preto São Gabriel Levigado - Áreas Comuns;5,0000;un;173;03/03/2025;31/10/2025;0,00%;;0,00%;;0,00;Não iniciado
+415 - Metais;;;43;01/10/2025;28/11/2025;0,00%;;0,00%;;0,00;Não iniciado
+416 - Torneira 2 - Torneira cozinha bica alta Flex Plus Cód. 1167.C21.CLM - Deca;3,0000;un;43;01/10/2025;28/11/2025;0,00%;;0,00%;;0,00;Não iniciado
+417 - Torneira 3 - Torneira de mesa Modelo: Lóggica Cromado Linha: Lóggica Matic Fornecedor: Docol;12,0000;un;43;01/10/2025;28/11/2025;0,00%;;0,00%;;0,00;Não iniciado
+418 - Acabamento de Registro 4 - Acabamento registro de pressão Modelo:4916.C64.PQ Cromado Linha: Duna Classica Fornecedor: Deca;8,0000;un;43;01/10/2025;28/11/2025;0,00%;;0,00%;;0,00;Não iniciado
+419 - Acabamento de Registro 5 - Acabamento registro de pressão Cod:4916.C72.PQ Cromado Linha: Spin Fornecedor: Deca;4,0000;un;43;01/10/2025;28/11/2025;0,00%;;0,00%;;0,00;Não iniciado
+420 - Monocomando 3 - Misturadores monocomando para cozinha bica alta Chess Cód. 00801306;3,0000;un;43;01/10/2025;28/11/2025;0,00%;;0,00%;;0,00;Não iniciado
+421 - Acabamento de Registro 6 - Acabamento registro de gaveta Cod:4916.C72.PQ Cromado Linha: Spin Fornecedor: Deca;1,0000;un;43;01/10/2025;28/11/2025;0,00%;;0,00%;;0,00;Não iniciado
+422 - Torneira para lavatório de mesa Pressmatic, linha Benefit - Cód. 00490706 - Docol;6,0000;un;43;01/10/2025;28/11/2025;0,00%;;0,00%;;0,00;Não iniciado
+423 - Acessórios sanitários;;;193;03/03/2025;28/11/2025;0,00%;;0,00%;;0,00;Não iniciado
+424 - Banco de transferência - piscina;1,0000;un;23;01/07/2025;31/07/2025;0,00%;;0,00%;;0,00;Não iniciado
+425 - Ralo Modelo: Oculto 15x15 Linha: Sekinho Fornecedor: SEKAPISO;21,0000;un;193;03/03/2025;28/11/2025;0,00%;;0,00%;;0,00;Não iniciado
+426 - Ralo área do chuveiro Modelo: SP46 Linha: SEKAPISO Fornecedor: SEKAPISO;4,0000;un;20;03/11/2025;28/11/2025;0,00%;;0,00%;;0,00;Não iniciado
+427 - AR CONDICIONADO / VENTILAÇÃO E EXAUSTÃO	;;;45;01/09/2025;31/10/2025;0,00%;;0,00%;;0,00;Não iniciado
+428 - INSTALAÇÕES DE AR CONDICIONADO EM GERAL	;;;45;01/09/2025;31/10/2025;0,00%;;0,00%;;0,00;Não iniciado
+429 - Ar Condicionado - Infraestrutura + Equipamentos;1,0000;vb;45;01/09/2025;31/10/2025;0,00%;;0,00%;;0,00;Não iniciado
+430 - Dutos para coifas e exaustão ;1,0000;un;45;01/09/2025;31/10/2025;0,00%;;0,00%;;0,00;Não iniciado
+431 - ELEVADORES	;;;45;01/09/2025;31/10/2025;0,00%;;0,00%;;0,00;Não iniciado
+432 - Elevadores;;;45;01/09/2025;31/10/2025;0,00%;;0,00%;;0,00;Não iniciado
+433 - Elevadores - fornecimento e instalação (Residencial);1,0000;un;45;01/09/2025;31/10/2025;0,00%;;0,00%;;0,00;Não iniciado
+434 - AUTOMAÇÃO E TECNOLOGIA	;;;215;03/03/2025;31/12/2025;0,00%;;0,00%;;0,00;Não iniciado
+435 - AUTOMAÇÃO	;;;193;03/03/2025;28/11/2025;0,00%;;0,00%;;0,00;Não iniciado
+436 - Sistema de CFTV e alarme incluso sensor perimetral;1,0000;vb;43;01/10/2025;28/11/2025;0,00%;;0,00%;;0,00;Não iniciado
+437 - Controle de Acesso;1,0000;vb;42;03/03/2025;30/04/2025;0,00%;;0,00%;;0,00;Não iniciado
+438 - Intercomunicação;;;194;01/04/2025;31/12/2025;0,00%;;0,00%;;0,00;Não iniciado
+439 - Central de portaria/interfone (sistema completo);1,0000;vb;194;01/04/2025;31/12/2025;0,00%;;0,00%;;0,00;Não iniciado
+440 - IMPLANTAÇÃO;;;428;03/06/2024;30/01/2026;29,08%;R$ 1.931.431,06;3,88%;R$ 257.981,58;0,13;Atrasado
+441 - PAVIMENTAÇÃO	;;;385;03/06/2024;28/11/2025;34,80%;R$ 954.985,62;6,78%;R$ 185.923,15;0,19;Atrasado
+442 - Pavimentação passeio - intertravado bloco sextravado esp 6cm;4.235,4000;m2;279;01/10/2024;31/10/2025;33,70%;R$ 202.925,71;0,00%;;0,00;Atrasado
+443 - PV EXECUÇÃO DE RAMPA ACESSIBILIDADE EM INTERTRAVADO, INCLUSIVE PISO PODOTATIL;10,0000;un;43;01/10/2025;28/11/2025;0,00%;;0,00%;;0,00;Não iniciado
+444 - PV EXECUÇÃO DE CAMINHO PODOTÁTIL PARA DEFICIENTE VISUAL;1.694,1600;ml;45;01/09/2025;31/10/2025;0,00%;;0,00%;;0,00;Não iniciado
+445 - Sinalização viária - horizontal e vertical;274,3100;m2;279;01/10/2024;31/10/2025;33,70%;R$ 2.310,92;0,00%;;0,00;Atrasado
+446 - Sinalização viária - faixas de vagas e faixas circulação carros;900,9200;m2;279;01/10/2024;31/10/2025;33,70%;R$ 6.679,02;0,00%;;0,00;Atrasado
+447 - Mini guia;1.243,6100;m;300;01/07/2024;29/08/2025;53,34%;R$ 58.716,80;0,00%;;0,00;Atrasado
+448 - Guias e sarjetas sem dreno subterraneo;1.885,4700;m;320;03/06/2024;29/08/2025;56,26%;R$ 108.272,33;0,00%;;0,00;Atrasado
+449 - Guias e sarjetas com Dreno subterraneo;261,0000;m;44;01/07/2025;29/08/2025;0,00%;;0,00%;;0,00;Não iniciado
+450 - PAV INTERTRAVADO PARA TRAFEGO MEDIO H=8cm;2.702,9900;m2;255;02/09/2024;29/08/2025;45,09%;R$ 247.536,27;18,01%;R$ 98.897,10;0,40;Atrasado
+451 - PAV INTERTRAVADO PARA TRAFEGO LEVE H=6cm;5.473,3000;m3;278;01/10/2024;30/10/2025;33,82%;R$ 328.544,58;8,96%;R$ 87.026,05;0,26;Atrasado
+452 - Piso emborrachado impact soft 50, placas de 1x1m, jade, Esmeralda e Galena;69,0100;m2;21;01/08/2025;29/08/2025;0,00%;;0,00%;;0,00;Não iniciado
+453 - Muros e muretas externos;;;387;01/07/2024;31/12/2025;26,13%;R$ 514.750,33;3,66%;R$ 72.058,44;0,14;Atrasado
+454 - Alvenaria de bloco de concreto de 19 x 19 x 39 cm, inclusive cintas, pilaretes  - muro de divisa;2.283,9000;m2;322;01/07/2024;30/09/2025;49,69%;R$ 514.750,33;6,96%;R$ 72.058,44;0,14;Atrasado
+455 - FE-01 - Fechamento em gradil, perfil metálico 2,0x2,0cm, espaçamento 10,0cm, h=3,00m - cor Cinza Chumbo RAL 7024 - GRADIL ELETROGRADI TIPO SITELA;1.043,2700;m2;43;01/10/2025;28/11/2025;0,00%;;0,00%;;0,00;Não iniciado
+456 - Fechamento em alambrado COM MOURÃO DE CONCRETO;1.513,3200;m2;43;01/08/2025;30/09/2025;0,00%;;0,00%;;0,00;Não iniciado
+457 - Guarda corpo em barra metálica 15x15cm, espaçamento 7cm, h=1,20m, cor Cinza Chumbo RAL 7024 ;87,0000;ml;65;01/10/2025;31/12/2025;0,00%;;0,00%;;0,00;Não iniciado
+458 - Fechamento perimetral da área de APP com mourão e arame farpado;800,4900;m2;44;01/09/2025;30/10/2025;0,00%;;0,00%;;0,00;Não iniciado
+459 - Paisagismo e irrigação;;;342;02/09/2024;31/12/2025;27,77%;R$ 461.695,10;0,00%;;0,00;Atrasado
+460 - Paisagismo Implantação;1,0000;vb;342;02/09/2024;31/12/2025;33,63%;R$ 444.579,12;0,00%;;0,00;Atrasado
+461 - Sistema de irrigação;1,0000;vb;65;01/10/2025;31/12/2025;0,00%;;0,00%;;0,00;Não iniciado
+462 - CONCREGRAMA;438,7500;m2;342;02/09/2024;31/12/2025;33,63%;R$ 17.115,99;0,00%;;0,00;Atrasado
+463 - Equipamentos comunitários;;;152;01/07/2025;30/01/2026;0,00%;;0,00%;;0,00;Não iniciado
+464 - BANCO BRIDGE 50X220X42CM - CONCRETO E MADEIRA JATOBÁ;1,0000;un;129;01/08/2025;30/01/2026;0,00%;;0,00%;;0,00;Não iniciado
+465 - POLTRONA VERONA MADEIRA E ALUMÍNIO CINZA;4,0000;un;129;01/08/2025;30/01/2026;0,00%;;0,00%;;0,00;Não iniciado
+466 - MESA BOTÃO CONCRETO;2,0000;un;129;01/08/2025;30/01/2026;0,00%;;0,00%;;0,00;Não iniciado
+467 - LABIRINTO DE TROCOS REF: PALITEIRO LAO;21,0000;un;152;01/07/2025;30/01/2026;0,00%;;0,00%;;0,00;Não iniciado
+468 - ESCORREGADOR DE TALUDE;1,0000;un;108;01/09/2025;30/01/2026;0,00%;;0,00%;;0,00;Não iniciado
+469 - PISADAS DE CONCRETO;9,0000;un;152;01/07/2025;30/01/2026;0,00%;;0,00%;;0,00;Não iniciado
+470 - TREPA TRONCO TAM: G;1,0000;un;108;01/09/2025;30/01/2026;0,00%;;0,00%;;0,00;Não iniciado
+471 - MURO COM PASSAGEM ;22,9300;m2;152;01/07/2025;30/01/2026;0,00%;;0,00%;;0,00;Não iniciado
+472 - TORNEIRA DE JARDIM COM ACABAMENTO EM PEDRA (15*60CM X 4);3,0000;un;108;01/09/2025;30/01/2026;0,00%;;0,00%;;0,00;Não iniciado
+473 - BANCO DE CONCRETO L=50CM H=40CM;10,3100;ml;129;01/08/2025;30/01/2026;0,00%;;0,00%;;0,00;Não iniciado
+474 - BALANÇO;2,0000;un;108;01/09/2025;30/01/2026;0,00%;;0,00%;;0,00;Não iniciado
+475 - RIO DE AREIA H=30CM;96,0000;m2;86;01/10/2025;30/01/2026;0,00%;;0,00%;;0,00;Não iniciado
+476 - TENTO DE CONCRETO PARA RIO DE AREIA;168,0000;ml;152;01/07/2025;30/01/2026;0,00%;;0,00%;;0,00;Não iniciado
+477 - Quadra poliesp piso concreto pintura;153,1800;m2;152;01/07/2025;30/01/2026;0,00%;;0,00%;;0,00;Não iniciado
+478 - SERVIÇOS COMPLEMENTARES	;;;106;01/10/2025;27/02/2026;0,00%;;0,00%;;0,00;Não iniciado
+479 - LIMPEZA DA OBRA	;;;106;01/10/2025;27/02/2026;0,00%;;0,00%;;0,00;Não iniciado
+480 - Limpeza final;25.640,9900;m2;106;01/10/2025;27/02/2026;0,00%;;0,00%;;0,00;Não iniciado
+481 - Despesas com documentação final;;;58;03/11/2025;23/01/2026;0,00%;;0,00%;;0,00;Não iniciado
+482 - Manual do Proprietário;115,0000;un;58;03/11/2025;23/01/2026;0,00%;;0,00%;;0,00;Não iniciado
+483 - Laudo de entrega;115,0000;un;58;03/11/2025;23/01/2026;0,00%;;0,00%;;0,00;Não iniciado
+484 - TAXA;;;684;24/05/2023;23/01/2026;64,47%;R$ 4.211.681,60;17,92%;R$ 1.170.454,67;0,28;Atrasado
+485 - TAXA DE ADMINISTRAÇÃO;;;684;24/05/2023;23/01/2026;64,47%;R$ 4.211.681,60;17,92%;R$ 1.170.454,67;0,28;Atrasado
+486 - Taxa de Administração;;;684;24/05/2023;23/01/2026;64,47%;R$ 4.211.681,60;17,92%;R$ 1.170.454,67;0,28;Atrasado
+487 - Taxa de administração;6.532.980,0800;vb;684;24/05/2023;23/01/2026;64,47%;R$ 4.211.681,60;17,92%;R$ 1.170.454,67;0,28;Atrasado
